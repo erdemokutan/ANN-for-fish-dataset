@@ -10,6 +10,7 @@ Bu proje, derin öğrenme yöntemlerini kullanarak balık türlerini sınıfland
 - [Model Mimarisinin Özeti](#model-mimarisinin-özeti)
 - [Model Eğitimi](#model-eğitimi)
 - [Sonuçlar ve Değerlendirme](#sonuçlar-ve-değerlendirme)
+- [Projenin Kaggle Linki](#projenin-kaggle-linki)
 
 
 ## Proje Hakkında
@@ -57,6 +58,9 @@ model.compile(optimizer=optimizer, loss='categorical_crossentropy', metrics=['ac
 Model, test verileri üzerinde değerlendirildiğinde yüksek doğruluk oranları elde etmiştir. Eğitim ve doğrulama kayıpları ile doğrulukları grafikte gösterilmektedir.
 
 Ayrıca, modelin performansı confusion matrix ve ROC-AUC eğrileri ile değerlendirilmiştir. Bu metrikler, modelin genel performansını görsel olarak anlamak için kullanılmıştır.
+
+## Projenin Kaggle Linki
+[kaggle-link]([URL](https://www.kaggle.com/code/okutanerdem/erdem-okutan-global-ai-hub-ann-project))
 
 
 
