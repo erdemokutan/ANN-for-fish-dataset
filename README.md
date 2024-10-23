@@ -60,7 +60,7 @@ Model, test verileri üzerinde değerlendirildiğinde yüksek doğruluk oranlar�
 Ayrıca, modelin performansı confusion matrix ve ROC-AUC eğrileri ile değerlendirilmiştir. Bu metrikler, modelin genel performansını görsel olarak anlamak için kullanılmıştır.
 
 ## Projenin Kaggle Linki
-[kaggle-link]([URL](https://www.kaggle.com/code/okutanerdem/erdem-okutan-global-ai-hub-ann-project))
+<https://www.kaggle.com/code/okutanerdem/erdem-okutan-global-ai-hub-ann-project>
 
 
 
